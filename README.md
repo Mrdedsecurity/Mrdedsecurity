@@ -17,9 +17,7 @@ Cybersecurity professional specialising in offensive security, penetration testi
 
 ### 🎤 Research & Speaking
 
-Cybersecurity speaker and independent researcher covering **offensive security, threat intelligence, cybercrime, AI, and OSINT**.
-
-**BSc (Hons) Cyber Security & Digital Forensics — First Class**
+Cybersecurity speaker and independent researcher covering **offensive security, threat intelligence, cybercrime, also supporting students into industry**.
 
 🌐 [Website](https://mrdedsecurity.github.io/site) · 💼 [LinkedIn](https://www.linkedin.com/in/jordan-powell1/) · 
 
