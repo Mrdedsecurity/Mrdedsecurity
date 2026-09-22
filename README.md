@@ -13,7 +13,8 @@ Cybersecurity professional specialising in offensive security, penetration testi
 
 * **[MailAudit](https://github.com/Mrdedsecurity/MailAudit)** — Email security auditing
 * **[MailForge](https://github.com/Mrdedsecurity/MailForge)** — OSINT reconnaissance tool designed to forge clean email lists from messy raw data.
-* **[NessMerge](https://github.com/Mrdedsecurity/NessMerge)** — Merge multiple .nessus (Nessus XML) scan result files into a single combined report. 
+* **[NessMerge](https://github.com/Mrdedsecurity/NessMerge)** — Merge multiple .nessus (Nessus XML) scan result files into a single combined report.
+* **[Void Ransomware](https://github.com/Mrdedsecurity/Void-Ransomware)** — A basic ransomware script designed as an easy-to-understand demonstration.
 
 ### 🎤 Research & Speaking
 
