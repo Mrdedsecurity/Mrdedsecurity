@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm MrDedSec 👋
 
-<!--
-**Mrdedsecurity/Mrdedsecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional specialising in offensive security, penetration testing, threat intelligence, and security research.
 
-Here are some ideas to get you started:
+### 🔐 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Penetration Testing & Red Teaming
+* Threat Intelligence & OSINT
+* Security Research
+* Cybercrime & AI
+
+### 🚀 Projects
+
+* **[MailAudit](https://github.com/Mrdedsecurity/MailAudit)** — Email security auditing
+* **[MailForge](https://github.com/Mrdedsecurity/MailForge)** — OSINT reconnaissance tool designed to forge clean email lists from messy raw data.
+* **[NessMerge](https://github.com/Mrdedsecurity/NessMerge)** — Merge multiple .nessus (Nessus XML) scan result files into a single combined report. 
+
+### 🎤 Research & Speaking
+
+Cybersecurity speaker and independent researcher covering **offensive security, threat intelligence, cybercrime, AI, and OSINT**.
+
+**BSc (Hons) Cyber Security & Digital Forensics — First Class**
+
+🌐 [Website](https://mrdedsecurity.github.io/site) · 💼 [LinkedIn](https://www.linkedin.com/in/jordan-powell1/) · 
+
+> *Break it. Understand it. Secure it.*
